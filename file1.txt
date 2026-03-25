@@ -1,1 +1,3 @@
+
 This is file 2 content changes from feature
+This is file 2 content is added
